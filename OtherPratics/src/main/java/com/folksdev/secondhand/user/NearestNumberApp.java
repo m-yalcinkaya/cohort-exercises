@@ -1,5 +1,6 @@
 package com.folksdev.secondhand.user;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class NearestNumberApp {
